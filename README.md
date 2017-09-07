@@ -28,7 +28,7 @@ All community members are potential users of Tree Talk! The app has two primary 
 
 ### Views
 The web app will have four primary views - **Details**, **Map**, **Mosaic**, and **Social**:
-- The **Details** view provides functionality for creating, reading, updating, and removing items within each of the core actions (Connect, Create, and Conserve)
+- The **Detail** view provides functionality for creating, reading, updating, and removing items within each of the core actions (Connect, Create, and Conserve)
 - The **Map** view provides a way to access items based on their location. Selecting an item through the Map view brings up the item's Detail view.
 - The **Mosaic** view provides a way to access items based on a sortable and filterable grid of thumbnail images for all items within the filter. Selecting an item through the Mosaic view brings up the item's Detail view.
 - The **Social** view displays a Twitter embed filtered on the #treetalk hashtag, combined with core-action modifiers, e.g., "#treetalk #connect", "#treetalk #create", or "#treetalk #conserve" 
