@@ -8,7 +8,7 @@ Tree Talk addresses three primary motivations:
 - **Discovery** ("what's happening around my area?")
 - **Contribution** ("how can I get involved?") 
 
-### Core Actions
+### Actions
 These motivations are grouped into three areas, the Tree Talk core actions - **Connect**, **Create**, and **Conserve**:
 - **Connect** facilitates exploration, discovery, and contribution to locally sourced environmental science and data
 - **Create** facilitates exploration, discovery, and contribution to creative calls-to-action and events
