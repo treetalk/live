@@ -21,6 +21,11 @@ We'll design and develop the app following four principles:
 - **Real**, **simple**: actively meet users where they are, highlight everyday actions 
 - **Connected**, **relevant**: support pre-existing community networks and goals, integrate proven standards and metrics
 
+### Users
+All community members are potential users of Tree Talk! The app has two primary groups of users, **catalysts** and **creators**.
+- **Catalysts** are community members who use the app more to explore and discover than to actively contribute. Catalysts regularly view events, follow projects, track their conservation actions, and use the app.
+- **Creators** contribute data and art, host events, actively create and own projects, and support environmental projects. 
+
 ### Views
 The web app will have four primary views - **Details**, **Map**, **Mosaic**, and **Social**:
 - The **Details** view provides functionality for creating, reading, updating, and removing items within each of the core actions (Connect, Create, and Conserve)
