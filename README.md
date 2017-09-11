@@ -34,6 +34,6 @@ The web app will have four primary views - **Details**, **Map**, **Mosaic**, and
 - The **Social** view displays a Twitter embed filtered on the #treetalk hashtag, combined with core-action modifiers, e.g., "#treetalk #connect", "#treetalk #create", or "#treetalk #conserve" 
 
 ### Development
-We'll focus app development and tool selection on the modern web and its evolving options, tools, and processes, e.g., React + friends, TDD. For mapping, we'll use Mapbox or a similar WebGL-powered tool (ArcGIS Online, Leaflet, OpenLayers) for awesome mobile-friendly map experiences. 
+We'll focus app development and tool selection on the modern web and its evolving options, tools, and processes, e.g., a progressive web app built with React+friends and TDD. For mapping, we'll use Mapbox or a similar WebGL-powered tool (ArcGIS Online, Leaflet, OpenLayers) for awesome mobile-friendly map experiences. 
 
 Starting out, **Connect** data will draw primarily from the iNaturalist API and **Create** data will draw primarily from the Meetup API. We'll use Open Street Map for storing relevant spatial data. We'll develop the project in the open here on GitHub using the opensource.guides for best practices.
