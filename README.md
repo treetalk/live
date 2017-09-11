@@ -3,13 +3,13 @@
 Treetalk /live is the most recent version of the Tree Talk web app.
 
 # Goals
-Tree Talk addresses three primary motivations:
+Tree Talk supports three primary actions:
 - **Exploration** ("how do I find out more?")
 - **Discovery** ("what's happening around my area?")
 - **Contribution** ("how can I get involved?") 
 
 ### Actions
-These motivations are grouped into three areas, the Tree Talk core actions - **Connect**, **Create**, and **Conserve**:
+These actions are grouped into three contexts - **Connect**, **Create**, and **Conserve**:
 - **Connect** facilitates exploration, discovery, and contribution to locally sourced environmental science and data
 - **Create** facilitates exploration, discovery, and contribution to creative calls-to-action and events
 - **Conserve** facilitates exploration, discovery, and contribution to a library of ways to personally track behavior change and contribute to a more vibrant, verdant community
